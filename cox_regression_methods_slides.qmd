@@ -57,7 +57,7 @@ Where:
 ## Hazard Ratios
 
 -   The hazards for the observation vs. amisole (Lev), or amisole + 5-FU
-    group with covariate values x~1~ and x~2~ are given by:
+    group with covariate values x~1~, x~2~ and x~3~ are given by:
 
 -   $hx_1(t)=h_0(t)\exp(\beta_1x_1)$ and
     $hx_2(t)=h_0(t)\exp(\beta_2x_2)$, respectively
